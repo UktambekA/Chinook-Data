@@ -1,6 +1,6 @@
 # Advanced SQL Queries & Data Visualization
 
-This repository contains advanced SQL queries and Python scripts for data analysis and visualization.
+This repository contains SQL queries and Python scripts for data analysis and visualization.
 
 ## 📂 Project Structure
 ```
